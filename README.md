@@ -1,12 +1,11 @@
 # F1 Data Analytics with Azure Databricks & Power BI 🏎️📊
 
 ## Project Overview
-This project showcases a comprehensive data pipeline for analyzing **Formula 1 racing data** using **Azure Databricks**, **Delta Lake**, and **Power BI**. The solution follows a structured data lakehouse architecture, implementing modern data engineering best practices to ensure efficient data ingestion, transformation, analysis, and reporting.
+This project demonstrates a robust data pipeline for analyzing **Formula 1 racing data** using **Azure Databricks**, **Delta Lake**, and **Power BI**. The solution is built on a structured data lakehouse architecture, incorporating modern data engineering best practices to ensure efficient data ingestion, transformation, analysis, and reporting.
 
 ## [Ergast Developer API](https://ergast.com/mrd/db/#csv)
 
-
-## What This Project Does:
+## Project Highlights:
 🚀 **Ingests** F1 race data from the **Ergast API** into **Azure Data Lake Storage (ADLS)**.
 
 🔄 **Transforms** raw data using **Azure Databricks (Apache Spark)** for schema enforcement, partitioning, and optimization.
@@ -42,4 +41,10 @@ This project showcases a comprehensive data pipeline for analyzing **Formula 1 r
 ✅ Built interactive **Power BI dashboards** for actionable insights.
 
 ## Why This Project Matters:
-This project demonstrates end-to-end data engineering with Azure technologies, following industry standards and best practices. It is a valuable resource for those looking to learn data lakehouse architectures, big data processing, and cloud-based analytics.
+This project showcases end-to-end data engineering using Azure technologies, adhering to industry standards and best practices. It serves as a valuable resource for those looking to learn about data lakehouse architectures, big data processing, and cloud-based analytics.
+
+---
+
+**GitHub Repository:** [SachinLoddiyaKarthik/F1-Data-Analytics-Project](https://github.com/SachinLoddiyaKarthik/F1-Data-Analytics-Project.git)
+
+---
