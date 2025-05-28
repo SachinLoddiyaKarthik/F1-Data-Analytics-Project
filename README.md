@@ -167,38 +167,6 @@ This project demonstrates a **production-grade data pipeline** for analyzing **F
    - Update data source connections
    - Publish to Power BI Service
 
-## 📁 Project Structure
-
-```
-F1-Data-Analytics-Project/
-├── 📁 infrastructure/           # ARM templates and IaC
-│   ├── main.json
-│   ├── parameters.json
-│   └── deployment.sh
-├── 📁 databricks-notebooks/     # Spark processing logic
-│   ├── 01-data-ingestion.py
-│   ├── 02-data-transformation.py
-│   ├── 03-data-quality-checks.py
-│   └── 04-analytics-processing.py
-├── 📁 adf-pipelines/           # Data Factory definitions
-│   ├── pipeline-definitions/
-│   ├── datasets/
-│   └── linked-services/
-├── 📁 powerbi-reports/         # Visualization and dashboards
-│   ├── f1-championship-analysis.pbix
-│   ├── driver-performance-dashboard.pbix
-│   └── race-analytics-report.pbix
-├── 📁 sql-scripts/            # Delta Lake table definitions
-│   ├── create-tables.sql
-│   └── optimize-tables.sql
-├── 📁 documentation/          # Technical documentation
-│   ├── architecture.md
-│   ├── data-dictionary.md
-│   └── deployment-guide.md
-└── 📁 tests/                 # Unit and integration tests
-    ├── data-quality-tests.py
-    └── pipeline-tests.py
-```
 
 ## 🔐 Security & Compliance
 
