@@ -242,7 +242,7 @@ Contributions are welcome! Please follow these guidelines:
 ## 📞 Contact & Support
 
 - **GitHub Issues**: [Create an issue](https://github.com/SachinLoddiyaKarthik/F1-Data-Analytics-Project/issues)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/sachinloddiyakarthik)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sachin-lk/)
 - **Email**: [sachinlkece@gmail.com](mailto:sachinlkece@gmail.com)
 
 ---
